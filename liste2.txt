@@ -1,8 +1,8 @@
-Indkøbsliste
+Indkï¿½bsliste
 Juice
-Brød
+Brï¿½d
 Kaffe
-Kaffe fløde
+Kaffe flï¿½de
 kaffe sukker
 sodavand
 chips 
@@ -10,9 +10,11 @@ matadormix
 ananas
 Kiwi
 Bananer
-Æbler
+ï¿½bler
 Tomater
-æg
+ï¿½g
 agurk
+kims chips
+barebells
 
 we need chees!!!
